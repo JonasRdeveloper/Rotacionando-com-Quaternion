@@ -1,6 +1,5 @@
 # Projeto Rotação por Quaternion
- ![Carta](src\ativos\imagens\Textos_removidos.png)
- Uma demostração simples de como usar Quaternion para rotacionar objetos em projetos 3D na Godot Engine, usando uma carta para este exemplo.
+Uma demostração simples de como usar Quaternion para rotacionar objetos em projetos 3D na Godot Engine, usando uma carta para este exemplo.
 
 ## Índice
  - <a href="#layout">Layout</a>
@@ -20,16 +19,13 @@
 ## Como executar este projeto?
 ```bash
 # Clone este repositório
-$ git clone projeto_visualizador
+$ git clone https://github.com/JonasRdeveloper/Rotacionando-com-Quaternion.git
 
 # Acesse a pasta do projeto no seu terminal
-$ cd projeto_visualizador
+$ cd Rotacionando-com-Quaternion/
 
-# Instale as dependências
-$ npm install 
+# Escanei o projeto com a Godot Engine e clique no botão editar... pronto!
 
-# Execute a aplicação
-$ npm run start
 ```
 
 ## Tecnologias utilizadas
