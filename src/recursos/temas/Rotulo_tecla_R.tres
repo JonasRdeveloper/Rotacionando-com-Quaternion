@@ -1,0 +1,9 @@
+[gd_resource type="LabelSettings" load_steps=2 format=3 uid="uid://dx5sfg5wl2xht"]
+
+[ext_resource type="FontFile" uid="uid://k6cb46xeiv4j" path="res://src/ativos/fontes/old_london/OldLondon.ttf" id="1_7r4uh"]
+
+[resource]
+font = ExtResource("1_7r4uh")
+font_size = 32
+outline_size = 5
+outline_color = Color(0, 0, 0, 1)
