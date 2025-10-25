@@ -7,8 +7,8 @@ Uma demostração simples de como usar Quaternion para rotacionar objetos em pro
  - <a href="#tecnologias-utilizadas">Tecnologias</a>
 
 ## 📲Funcionalidades do projeto
- -[x] Usando a tecla "R" para resetar a rotação do objeto
- -[x] Clicar como o botão esquerdo do mouse e arrastar a carta
+ - [x] Usando a tecla "R" para resetar a rotação do objeto
+ - [x] Clicar como o botão esquerdo do mouse e arrastar a carta
 	  para rotacioná-la para todos os lados
 	
 ## Layout
